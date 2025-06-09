@@ -209,8 +209,7 @@ Para excluir um risco, envie uma requisição **DELETE** para `http://localhost:
 
 ---
 
-
-### Diagrama de Arquitetura do Sistema SAFE.Guard![diagrama_arquitetura_safe_guard_final](https://github.com/user-attachments/assets/9b25f1f0-a3a3-47dc-96b0-dae4ee8bc31e)
+![Imagem do WhatsApp de 2025-06-08 à(s) 13 03 03_017db34f](https://github.com/user-attachments/assets/0b19ba5d-f44a-474e-bb5e-67ada6a490da)
 
 ---
 
