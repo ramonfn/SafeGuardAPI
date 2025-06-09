@@ -6,7 +6,7 @@
 ### **Integrantes do Projeto**
 - **Nome**: Marcus Vinicius de Souza Calazans - **RM**: 556620
 - **Nome**: Felipe Nogueira Ramon - **RM**: 555335
-- **Nome**: Fernando Hitoshi Hiroshima - **RM**: 556730
+- **Nome**: Fernando Hitoshi Hirashima - **RM**: 558730
 
 ### **Introdução**
 O projeto **SAFE.Guard** integra uma estação IoT com sensores de chuva, pressão atmosférica, umidade e inclinação do solo. Esses sensores coletam dados ambientais em tempo real, e uma **API RESTful** desenvolvida em .NET Core processa e emite alertas preventivos por meio de um aplicativo móvel e painel web.
